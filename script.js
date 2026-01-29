@@ -2,7 +2,8 @@ document.getElementById('btnClick').addEventListener('click', function() {
     document.getElementById('output').textContent = '¡Botón clicado!';
 });
 
-//esto es un metodo, suscribete ala tecnologia avanza
+//probando
+//esto es un metodo, suscribete ala tecnologia avanza 
 
 document.getElementById('contactForm').addEventListener('submit', function(event) {
     event.preventDefault();
